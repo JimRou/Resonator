@@ -17,8 +17,5 @@ This differential equation is integrated numerically using Euler's method, with 
 
 
 
-https://github.com/user-attachments/assets/2a017775-985a-4cb5-84ae-182a12bbbcb8
-
-
-
+https://github.com/user-attachments/assets/869b7555-c566-46fd-954f-4f3d7a86f7a3
 
