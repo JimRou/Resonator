@@ -16,5 +16,9 @@ where $e(t)$ represents the displacement at the connection to the exciter, $\ome
 This differential equation is integrated numerically using Euler's method, with a time step of 20 ms.
 
 
-https://github.com/user-attachments/assets/1b51b6df-2c65-4838-aaba-46ef984e2be3
+
+https://github.com/user-attachments/assets/2a017775-985a-4cb5-84ae-182a12bbbcb8
+
+
+
 
